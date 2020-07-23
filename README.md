@@ -15,13 +15,14 @@ So after you have visited my Channel and Subscribed 😍 🙂 let me Introduce m
 ## More about Myself
 - Currently Learning Java and Javascript
 - From Kolkata, The City of Joy, City of Steet Foods(That's the thing I love in this City) 🥗🌭🍟🍜🍣
-- From Front End now to MERN Stack Developer 😎😎
+- From Front End now to _MERN Stack Developer 😎😎
 - _Writes TECH Blogs on my website
 ## Reach out 
-- It's getting Too Long so  for more Talks on Tech,Gadgets ,Reach me out Anywhere on Social Media 
+- It's getting Too Long so  for more Talks on Tech,Gadgets ,Reach me out Anywhere on Social Media 😋📥
 
 
-
+  
+   
 🖊 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
@@ -29,7 +30,7 @@ So after you have visited my Channel and Subscribed 😍 🙂 let me Introduce m
 👔 [linkedin][linkedin] **|** 
 
 
-
+[banner]: https://stories.freepik.com/illustration/moving-forward/amico
 [website]: https://techairyt.blogspot.com/
 [twitter]: https://twitter.com/TechairSD
 [youtube]: https://www.youtube.com/channel/UCuJ6UFQRsKBq8vzoR3-y-Dg/featured

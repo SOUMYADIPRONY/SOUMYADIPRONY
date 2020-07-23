@@ -1,3 +1,4 @@
+[![bg][banner]][website]
 ### Hi there I am Soumyadip Dutta👋
 
 Hey there Nerds,Tech Geeks and Coding Gods 
@@ -27,7 +28,8 @@ So after you have visited my Channel and Subscribed 😍 🙂 let me Introduce m
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin] **|** 
+👔 [linkedin][linkedin] **|**
+
 
 
 [banner]: https://stories.freepik.com/illustration/moving-forward/amico

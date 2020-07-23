@@ -10,13 +10,15 @@ So after you have visited my Channel and Subscribed 😍 🙂 let me Introduce m
 - I am 3rd Year CSE 💻 Undergrad making out with Computers during College
 - My Insitution is College of Engineering and Management,Kolaghat located on Outskirts of Kolkata and is a Serene Place.
 - Most of the Time  I have my Laptop and Mobile around me otherwise I am Chilling with my friends
-## Also when I am lazy I watch Web Series and Chill as well 
+- Also when I am lazy I watch Web Series and Chill as well 
 - Food,Tech and Cricket is my thing...
+## More about Myself
 - Currently Learning Java and Javascript
 - From Kolkata, The City of Joy, City of Steet Foods(That's the thing I love in this City) 🥗🌭🍟🍜🍣
 - From Front End now to MERN Stack Developer 😎😎
 - _Writes TECH Blogs on my website
-- It's getting Too Long so  for more Talks on Tech ,Reach me out Anywhere on Social Media 
+## Reach out 
+- It's getting Too Long so  for more Talks on Tech,Gadgets ,Reach me out Anywhere on Social Media 
 
 
 

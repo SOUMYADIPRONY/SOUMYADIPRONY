@@ -32,7 +32,7 @@ So after you have visited my Channel and Subscribed 😍 🙂 let me Introduce m
 
 
 
-[banner]: hhttps://www.canva.com/design/DAEC0CPpFyI/aQQ0E08bnWJgXoL8A1peVw/view?utm_content=DAEC0CPpFyI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+[banner]: https://www.canva.com/design/DAEC0CPpFyI/aQQ0E08bnWJgXoL8A1peVw/view?utm_content=DAEC0CPpFyI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 [website]: https://techairyt.blogspot.com/
 [twitter]: https://twitter.com/TechairSD
 [youtube]: https://www.youtube.com/channel/UCuJ6UFQRsKBq8vzoR3-y-Dg/featured

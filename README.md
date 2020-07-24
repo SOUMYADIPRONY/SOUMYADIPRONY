@@ -39,4 +39,4 @@ So after you have visited my Channel and Subscribed 😍 🙂 let me Introduce m
 [instagram]: https://www.instagram.com/soumya_casm/?hl=en
 [linkedin]: https://www.linkedin.com/in/soumyadip-dutta-3b917718a/
 
-<img src="https://github-readme-stats.vercel.app/api?username=SOUMYADIPRONY&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=ffba2c">
+<img src="https://github-readme-stats.vercel.app/api?username=SOUMYADIPRONY&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">

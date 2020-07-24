@@ -26,19 +26,20 @@
 <br/>
 <br/>
 
-
-- I am 3rd Year CSE 💻 Undergrad making out with Computers during College
-- My Insitution is College of Engineering and Management,Kolaghat located on Outskirts of Kolkata and is a Serene Place.
-- Most of the Time  I have my Laptop and Mobile around me otherwise I am Chilling with my friends
-- Also when I am lazy I watch Web Series and Chill as well 
-- Food,Tech and Cricket is my thing...
+## Who am I?
+👦🏼 I am a 3rd Year **CSE** 💻 Undergrad making out with Computers during College.I do almost everything I love and always keeps updates about different Gadgets
+🏡 My Insitution is **College of Engineering and Management,Kolaghat** located on Outskirts of Kolkata 
+- Most of the Time I have my Laptop and Mobile around me otherwise I am Chilling with my friends
+- Food,Tech,Movies and Cricket is my thing...
+- From **Kolkata, The City of Joy**
 ## More about Myself
-- Currently Learning Java and Javascript
-- From Kolkata, The City of Joy, City of Steet Foods(That's the thing I love in this City) 🥗🌭🍟🍜🍣
-- From Front End now to _MERN Stack Developer 😎😎
-- _Writes TECH Blogs on my website
+- <> Currently learning Java .Next Stop Android Development
+- 🤓 Working to get from Front End Development to **MERN Stack Developer**
+- ⌛ Loves the Digital Marketing Concept and SEO 
+- Makes Tech Videos on YouTube and Writes Blogs on my Website
+- ⚡ Fun fact: I also make Memes
 ## Reach out 
-- It's getting Too Long so  for more Talks on Tech,Gadgets ,Reach me out Anywhere on Social Media 😋📥
+- It's getting Too Long so it's better I stop here.For more Talks on Tech,Gadgets and Anything Reach me out Anywhere on Social Media 😋📥
 
 [![Twitter: TechairSD](https://img.shields.io/twitter/follow/TechairSD?style=social)](https://twitter.com/TechairSD)
 [![Linkedin: Soumyadip Dutta](https://img.shields.io/badge/-Soumyadip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumyadip-dutta-3b917718a/)](https://www.linkedin.com/in/soumyadip-dutta-3b917718a/)

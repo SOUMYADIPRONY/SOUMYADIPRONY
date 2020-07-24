@@ -39,6 +39,9 @@
 - _Writes TECH Blogs on my website
 ## Reach out 
 - It's getting Too Long so  for more Talks on Tech,Gadgets ,Reach me out Anywhere on Social Media 😋📥
+[![Twitter: TechairSD](https://img.shields.io/twitter/follow/TechairSD?style=social)](https://twitter.com/TechairSD)
+[![Linkedin: Soumyadip Dutta](https://img.shields.io/badge/-Soumyadip Dutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumyadip-dutta-3b917718a/)](https://www.linkedin.com/in/soumyadip-dutta-3b917718a/)
+
 
 
   
@@ -57,3 +60,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUMYADIPRONY&theme=dark&hide_langs_below=1" />
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=SOUMYADIPRONY&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+<div align="center">
+
+
+</div>

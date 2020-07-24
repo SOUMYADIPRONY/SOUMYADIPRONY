@@ -39,12 +39,11 @@
 - _Writes TECH Blogs on my website
 ## Reach out 
 - It's getting Too Long so  for more Talks on Tech,Gadgets ,Reach me out Anywhere on Social Media 😋📥
+
 [![Twitter: TechairSD](https://img.shields.io/twitter/follow/TechairSD?style=social)](https://twitter.com/TechairSD)
 [![Linkedin: Soumyadip Dutta](https://img.shields.io/badge/-Soumyadip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumyadip-dutta-3b917718a/)](https://www.linkedin.com/in/soumyadip-dutta-3b917718a/)
 
 
-
-  
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -61,7 +60,3 @@
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=SOUMYADIPRONY&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-<div align="center">
-
-
-</div>

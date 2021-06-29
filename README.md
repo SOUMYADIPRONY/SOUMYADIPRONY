@@ -41,7 +41,7 @@
 ## Reach out 
 - It's getting Too Long so it's better I stop here.For more Talks on Tech,Gadgets and Anything Reach me out Anywhere on Social Media 😋📥
 
-[![Twitter: TechairSD](https://img.shields.io/twitter/follow/TechairSD?style=social)](https://twitter.com/TechairSD)
+[![Twitter: lofITechie](https://img.shields.io/twitter/follow/TechairSD?style=social)](https://twitter.com/lofITechie)
 [![Linkedin: Soumyadip Dutta](https://img.shields.io/badge/-Soumyadip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumyadip-dutta-3b917718a/)](https://www.linkedin.com/in/soumyadip-dutta-3b917718a/)
 
 

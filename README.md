@@ -16,7 +16,7 @@
 <a href="https://github.com/SOUMYADIPRONY">
   <img align="left" alt="Soumyadip's GitHUb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/soumya_casm/">
+<a href="https://www.instagram.com/lofi_Dreamer/">
   <img align="left" alt="I am on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://techairyt.blogspot.com/">
@@ -41,7 +41,7 @@
 ## Reach out 
 - It's getting Too Long so it's better I stop here.For more Talks on Tech,Gadgets and Anything Reach me out Anywhere on Social Media 😋📥
 
-[![Twitter: lofITechie](https://img.shields.io/twitter/follow/TechairSD?style=social)](https://twitter.com/lofITechie)
+[![Twitter: lofITechie](https://img.shields.io/twitter/follow/lofITechie?style=social)](https://twitter.com/lofITechie)
 [![Linkedin: Soumyadip Dutta](https://img.shields.io/badge/-Soumyadip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumyadip-dutta-3b917718a/)](https://www.linkedin.com/in/soumyadip-dutta-3b917718a/)
 
 

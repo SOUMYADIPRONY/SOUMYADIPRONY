@@ -28,7 +28,7 @@
 
 
 ## Who am I?
-👦🏼 I am a Final Year **CSE** 💻 Undergrad making out with Computers during College.I do almost everything I love and always keeps updates about different Gadgets
+👦🏼 I am currently working as Systems Engineer at [Infosys](https://www.infosys.com/)
 🏡 My Insitution is **College of Engineering and Management,Kolaghat** located on Outskirts of Kolkata 
 - Most of the Time I have my Laptop and Mobile around me otherwise I am Chilling with my friends
 - Food,Tech,Movies and Cricket is my thing...

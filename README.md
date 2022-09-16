@@ -25,11 +25,7 @@
 
 <br/>
 <br/>
----
-<a href="https://openinapp.co/spotify/ea6de"><img align="right" alt="Now playing on Spotify" height="300px" width=auto src="https://spotify-github-profile.vercel.app/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/></a>
-<div align="center">
 
----
 
 ## Who am I?
 👦🏼 I am a Final Year **CSE** 💻 Undergrad making out with Computers during College.I do almost everything I love and always keeps updates about different Gadgets
@@ -66,4 +62,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUMYADIPRONY&theme=dark&hide_langs_below=1" />
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=SOUMYADIPRONY&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+---
+
+---
+<a href="https://openinapp.co/spotify/ea6de"><img align="right" alt="Now playing on Spotify" height="300px" width=auto src="https://spotify-github-profile.vercel.app/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/></a>
+<div align="center">
+
+---
 

@@ -1,8 +1,5 @@
 
 ### Hi there I am Soumyadip Dutta👋
-<a href="https://www.youtube.com/channel/UCuJ6UFQRsKBq8vzoR3-y-Dg">
-  <img align="left" alt="TECH AIR " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 <a href="https://twitter.com/lofITechie">
   <img align="left" alt="Tweeting" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>

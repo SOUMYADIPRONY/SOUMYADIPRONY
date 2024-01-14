@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/soumyadip-dutta-3b917718a/">
   <img align="left" alt="Soumyadip's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/techairofficial/">
-  <img align="left" alt="TECH AIR is on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 <a href="https://github.com/SOUMYADIPRONY">
   <img align="left" alt="Soumyadip's GitHUb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -16,9 +13,7 @@
 <a href="https://www.instagram.com/lofi_Dreamer/">
   <img align="left" alt="I am on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://techairyt.blogspot.com/">
-  <img align="left" alt="I am on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
-</a>
+
 
 <br/>
 <br/>

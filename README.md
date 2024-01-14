@@ -26,21 +26,19 @@
 
 ## Who am I?
 👦🏼 I am currently working as Systems Engineer at [Infosys](https://www.infosys.com/)
-🏡 My Insitution is **College of Engineering and Management,Kolaghat** located on Outskirts of Kolkata 
-- Most of the Time I have my Laptop and Mobile around me otherwise I am Chilling with my friends
-- Food,Tech,Movies and Cricket is my thing...
+🏡 My Insitution is **College of Engineering and Management,Kolaghat** under Maulana Abul Kalam Azad University of Technology 
+- Techie at core
+- Sometimes Gaming, Sometimes Binge Watching Web Series
 - From **Kolkata, The City of Joy**
 ## More about Myself
-- <> Currently learning Java .Next Stop Android Development
 - 🤓 Working to get from Front End Development to **MERN Stack Developer**
-- ⌛ Loves the Digital Marketing Concept and SEO 
-- Makes Tech Videos on YouTube and Writes Blogs on my Website
+- Used to make Tech Videos on YouTube and wrote 200 tech articles in Techbloat.com
 - ⚡ Fun fact: I also make Memes
 ## Reach out 
-- It's getting Too Long so it's better I stop here.For more Talks on Tech,Gadgets and Anything Reach me out Anywhere on Social Media 😋📥
+- You can reach me out in the following social media channels
 
 [![Twitter: lofITechie](https://img.shields.io/twitter/follow/lofITechie?style=social)](https://twitter.com/lofITechie)
-[![Linkedin: Soumyadip Dutta](https://img.shields.io/badge/-Soumyadip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumyadip-dutta-3b917718a/)](https://www.linkedin.com/in/soumyadip-dutta-3b917718a/)
+[![Linkedin: Soumyadip Dutta](https://img.shields.io/badge/-Soumyadip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumyadip-dutta-techie/)](https://www.linkedin.com/in/soumyadip-dutta-techie/)
 
 
 **Languages and Tools:**  

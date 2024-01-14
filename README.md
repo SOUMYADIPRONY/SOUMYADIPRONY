@@ -32,7 +32,7 @@
 - From **Kolkata, The City of Joy**
 ## More about Myself
 - 🤓 Working to get from Front End Development to **MERN Stack Developer**
-- Used to make Tech Videos on YouTube and wrote 200 tech articles in Techbloat.com
+- Used to make Tech Videos on YouTube and wrote 200 tech articles in [Techbloat](https://www.techbloat.com/)
 - ⚡ Fun fact: I also make Memes
 ## Reach out 
 - You can reach me out in the following social media channels

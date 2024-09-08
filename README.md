@@ -1,5 +1,6 @@
 
 ### Hi there I am Soumyadip Dutta👋
+(https://media.licdn.com/dms/image/v2/D5616AQFcqytSADSu7A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725643544510?e=1731542400&v=beta&t=JB1TqACsVYUBYjkJCBlxlBHnps7Q_VlIMOcEne_J8pY)
 <a href="https://twitter.com/lofITechie">
   <img align="left" alt="Tweeting" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -20,25 +21,27 @@
 
 
 ## Who am I?
-👦🏼 I am currently working as Systems Engineer at [Infosys](https://www.infosys.com/)
-🏡 My Insitution is **College of Engineering and Management,Kolaghat** under Maulana Abul Kalam Azad University of Technology 
+👦🏼 I am currently working as Systems Engineer where I am working as a Python developer and tools with OpenAI at [Infosys](https://www.infosys.com/)
+🏡 Did my Undergrad from **College of Engineering and Management,Kolaghat** affiliated to Maulana Abul Kalam Azad University of Technology 
+🧑‍💻 BTech CSE Class of 2022
 - Techie at core
-- Sometimes Gaming, Sometimes Binge Watching Web Series
+- Movie Buff
+- Gaming otherwise
 - From **Kolkata, The City of Joy**
 ## More about Myself
-- 🤓 Working to get from Front End Development to **MERN Stack Developer**
+- 🤓 Python Developer, MERN stack enthusiast
 - Used to make Tech Videos on YouTube and wrote 200 tech articles in [Techbloat](https://www.techbloat.com/)
-- ⚡ Fun fact: I also make Memes
+- ⚡Fact: I also have good humor
 ## Reach out 
-- You can reach me out in the following social media channels
+- You can reach me on the following social media channels
 
 [![Twitter: lofITechie](https://img.shields.io/twitter/follow/lofITechie?style=social)](https://twitter.com/lofITechie)
 [![Linkedin: Soumyadip Dutta](https://img.shields.io/badge/-Soumyadip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumyadip-dutta-techie/)](https://www.linkedin.com/in/soumyadip-dutta-techie/)
 
 
-**Languages and Tools:**  
+**Languages, Frameworks and Tools:**  
 
-<a href="#">![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
+
 <a href="#">![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</a><br>

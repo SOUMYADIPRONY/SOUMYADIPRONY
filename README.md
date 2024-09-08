@@ -1,6 +1,6 @@
 
 ### Hi there I am Soumyadip Dutta👋
-(https://media.licdn.com/dms/image/v2/D5616AQFcqytSADSu7A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725643544510?e=1731542400&v=beta&t=JB1TqACsVYUBYjkJCBlxlBHnps7Q_VlIMOcEne_J8pY)
+
 <a href="https://twitter.com/lofITechie">
   <img align="left" alt="Tweeting" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>

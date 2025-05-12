@@ -21,7 +21,7 @@
 
 
 ## Who am I?
-👦🏼 I am currently working as Systems Engineer where I am working as a Python developer and tools with OpenAI at [Infosys](https://www.infosys.com/)
+👦🏼 I am currently working as a Senior Systems Engineer working in GenAI application development with Python backend and API  at [Infosys](https://www.infosys.com/)
 🏡 Did my Undergrad from **College of Engineering and Management,Kolaghat** affiliated to Maulana Abul Kalam Azad University of Technology 
 🧑‍💻 BTech CSE Class of 2022
 - Techie at core
@@ -29,9 +29,9 @@
 - Gaming otherwise
 - From **Kolkata, The City of Joy**
 ## More about Myself
-- 🤓 Python Developer, MERN stack enthusiast
-- Used to make Tech Videos on YouTube and wrote 200 tech articles in [Techbloat](https://www.techbloat.com/)
-- ⚡Fact: I also have good humor
+- 🤓 Python Developer, MERN stack enthusiast, Generative AI developer
+- My past: to make Tech Videos on YouTube and wrote 200 tech articles in [Techbloat](https://www.techbloat.com/)
+- ⚡Fact: I also have a good humor
 ## Reach out 
 - You can reach me on the following social media channels
 
